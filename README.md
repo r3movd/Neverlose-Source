@@ -9,3 +9,4 @@ https://nevercrack.gq
 
 discord:
 https://discord.gg/UjJ4WYvaWd
+ 
